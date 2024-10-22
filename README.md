@@ -1,2 +1,2 @@
 # ulang-tahun
-codingan ultah buat syarah
+codingan ultah
