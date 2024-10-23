@@ -5,6 +5,19 @@ html {
   body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    /* Menambahkan gambar background */
+    background-image: url('img/pink.png');
+    background-size: cover; /* Gambar mengisi seluruh halaman */
+    background-position: center; /* Memposisikan gambar di tengah */
+    background-repeat: no-repeat; /* Mencegah gambar berulang */
+    height: 100vh; /* Mengisi tampilan penuh */
+    margin: 0; /* Menghapus margin default */
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .song {
